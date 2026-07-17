@@ -41,20 +41,6 @@
 
 ---
 
-## 📊 Estadísticas de mi perfil (las visitas y los commits también los pone la IA)
-
-<div align="center">
-  
-  <!-- Tarjeta de estadísticas generales con tonos café -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=gruvbox&bg_color=2E1E16&title_color=F5A623&icon_color=F5A623&text_color=D4C4A8&border_color=6F4E37&hide_border=true" />
-  
-  <!-- Tarjeta de lenguajes (aunque los escriba la IA, son míos) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=gruvbox&bg_color=2E1E16&title_color=F5A623&text_color=D4C4A8&border_color=6F4E37&hide_border=true" />
-  
-</div>
-
----
-
 ## 📂 Mis repositorios
 
 Por ahora, todo lo que construyo vive en privado mientras la IA lo pule.  
@@ -77,3 +63,10 @@ Mientras tanto, si quieres ver mi "huella digital", revisa mis estadísticas de 
 3. Copio el código, lo pego en VS Code y le doy a "Ejecutar".
 4. Si falla: copio el error, se lo paso a la IA y repito el paso 3.
 5. Si funciona: hago un commit con el mensaje "feat: mejoras importantes" (aunque no sepa qué mejoré).
+
+```
+<!-- PIE DE PÁGINA CON DISEÑO DE CAFÉ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer&text=☕%20Buen%20café%20y%20mejor%20IA%20=%20éxito%20🤖&fontSize=20&fontColor=F5DEB3&animation=twinkling" />
+</div>
