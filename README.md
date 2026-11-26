@@ -1,72 +1,41 @@
-<!-- BANNER SUPERIOR CON DISEÑO DE CAFÉ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=200&section=header&text=☕%20Café%20&%20Código&fontSize=50&fontColor=F5DEB3&animation=fadeIn&fontAlignY=35" />
-</div>
+## Profile
 
-<!-- BADGES DE PRESENTACIÓN -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Estado-Tomando%20Café-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rol-Productor%20de%20Prompts-8B5A2B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experiencia-Cero%20(pero%20con%20IA)-A0522D?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jeishoon-bit&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F262805701%3Fu%3Da8ec0f05c2d372f0ead9579e5e2e1890252b6f18%26v%3D4" alt="jeishoon-bit hero visual" />
+</p>
 
----
+**Imu** · Frontend or full-stack engineer
 
-## 👋 ¡Hola! Soy [Jeishoon]
+## About
 
-### El "Dev" que prefiere el aroma del café antes que la sintaxis del código ☕🧠
+> Tomando Café.
 
-> **Disclaimer oficial:** No sé escribir un `for` sin buscarlo en Google, y mi única interfaz con el código es el chat de ChatGPT. Pero he descubierto algo mágico: **sé pedir las cosas correctas**. La IA es mi mano derecha (y también la izquierda), y juntos hemos logrado que mis ideas dejen de ser solo ideas.
+- 👥 **0** followers · **0** following
 
-📌 **Mi filosofía:**
-- `Ctrl + C` (de la IA) + `Ctrl + V` (en mi repo) = **Productividad nivel Dios**.
-- Si el código compila a la primera, es que la IA tuvo un buen día.
-- Mi mayor aporte al proyecto es **elegir el nombre de las variables** y probar el café mientras la IA piensa.
+*Small, useful work over vague claims.*
 
----
+## Stack
 
-## 🛠️ Mi "Tech Stack" (o sea, lo que la IA usa por mí)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<div align="center">
-  
-| Tecnología | ¿Para qué se la pido a la IA? |
-|------------|--------------------------------|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | Para que me haga bots, automatizaciones y scripts que no entiendo. |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> | Para que me maquete webs que parezcan de verdad. |
-| <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> | Para que el frontend se vea bonito sin que yo toque un CSS. |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> | Para que el backend funcione mientras yo tomo mi segundo café. |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> | Para subir lo que la IA hizo (y rezar para que no haya conflictos). |
+## Signals
 
-</div>
+<table>
+<tr><td align="center"><b>2</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>34</b><br/><sub>contributions</sub></td></tr>
+</table>
 
----
+## Projects
 
-## 📂 Mis repositorios
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=jeishoon-bit&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F262805701%3Fu%3Da8ec0f05c2d372f0ead9579e5e2e1890252b6f18%26v%3D4" alt="jeishoon-bit projects visual" />
+</p>
 
-Por ahora, todo lo que construyo vive en privado mientras la IA lo pule.  
-Pronto subiré lo que ella y yo creamos juntos.  
-Mientras tanto, si quieres ver mi "huella digital", revisa mis estadísticas de arriba. 😉
+## Contact
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jeishoon-bit&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F262805701%3Fu%3Da8ec0f05c2d372f0ead9579e5e2e1890252b6f18%26v%3D4" alt="jeishoon-bit social visual" />
+</p>
 
-## ☕ Mi ritual de trabajo (paso a paso)
+<a href="https://github.com/jeishoon-bit">GitHub</a>
 
-```ascii
-          (  ( 
-           ) )
-        .______.
-        |      |]
-        \      /
-         `----'
-1. Preparo un café bien cargado (imprescindible).
-2. Abro ChatGPT/Claude/Copilot y le explico qué quiero en español (nunca en inglés, que para eso está la IA).
-3. Copio el código, lo pego en VS Code y le doy a "Ejecutar".
-4. Si falla: copio el error, se lo paso a la IA y repito el paso 3.
-5. Si funciona: hago un commit con el mensaje "feat: mejoras importantes" (aunque no sepa qué mejoré).
-
-```
-<!-- PIE DE PÁGINA CON DISEÑO DE CAFÉ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer&text=☕%20Buen%20café%20y%20mejor%20IA%20=%20éxito%20🤖&fontSize=20&fontColor=F5DEB3&animation=twinkling" />
-</div>
+<p align="center"><sub>Imu · <a href="https://www.gitskins.com/readme-generator?template=community-abhishek-s-a7r4">Abhishek S</a> template by <a href="https://www.gitskins.com/creators/abhi312k5">@abhi312k5</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
