@@ -37,5 +37,3 @@
 </p>
 
 <a href="https://github.com/jeishoon-bit">GitHub</a>
-
-<p align="center"><sub>Imu · <a href="https://www.gitskins.com/readme-generator?template=community-abhishek-s-a7r4">Abhishek S</a> template by <a href="https://www.gitskins.com/creators/abhi312k5">@abhi312k5</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
